@@ -1,0 +1,16 @@
+{
+  "name": "HCVoting",
+  "author": "Aragon Association",
+  "description": "Create and participate in proposals by voting. Uses Holographic Consensus, which reduces the tension between scalability and resilience of voting in an organization.",
+  "details_url": "/meta/details.md",
+  "source_url": "https://<placeholder-repository-url>",
+  "icons": [
+    {
+      "src": "/meta/icon.svg",
+      "sizes": "56x56"
+    }
+  ],
+  "screenshots": [{ "src": "/meta/screenshot-1.png" }],
+  "start_url": "/index.html",
+  "script": "/script.js"
+}
