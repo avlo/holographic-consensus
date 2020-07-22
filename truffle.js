@@ -2,7 +2,7 @@ var TruffleConfig = require('@aragon/os/truffle-config');
 module.exports = {
   TruffleConfig,
   networks: {
-    development: {
+    localhost: {
       host: "127.0.0.1",
       port: 8545,
       gas: 6721975,
@@ -11,7 +11,7 @@ module.exports = {
       network_id: "*",
       ens: {
         registry: {
-          address: "0x44a2d3DA9809Cd23f56b90e0b6500CD3750EbF9F"
+          address: "0xB9462EF3441346dBc6E49236Edbb0dF207db09B7"
         }
       }
     }
